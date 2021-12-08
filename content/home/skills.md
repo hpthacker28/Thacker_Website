@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: 
   icon: i-cursor
   icon_pack: fas
   name: Writing
-- description: 90%
+- description: 
   icon: pencil-alt
   icon_pack: fas
   name: Editing
-- description: 50%
+- description: 
   icon: comments
   icon_pack: far
   name: Conversational Spanish
