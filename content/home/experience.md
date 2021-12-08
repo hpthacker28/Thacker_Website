@@ -45,6 +45,7 @@ experience:
     date_end: '2021-12-12'
     description: Previously worked as Opinions Editor, Contributing Opinions Editor and Columnist.
     
+    
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
