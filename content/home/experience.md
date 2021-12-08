@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Copy Aide
     company: The Washington Post
-    company_url: 'https://www.washingtonpost.com/'
-    company_logo: org-WP
+    company_url: ''
+    company_logo: 
     location: Washington, D.C.
     date_start: '2021-03'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
         
         * Research
         * FOIA filing and writing
-        * Contributing to Reporting 
+        * Contributing to Reporting
         
   - title: Professor of Semiconductor Physics
     company: University X
