@@ -28,10 +28,6 @@ feature:
   icon: comments
   icon_pack: far
   name: Spanish
--description: Freedom of Information Act Writing and Filing 
-  icon: file-alt
-  icon_pack: far
-  name: FOIA
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
