@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: Journalism and Creative Writing
   icon: i-cursor
   icon_pack: fas
   name: Writing
-- description: 
+- description: Copy Editing and Content Editing 
   icon: pencil-alt
   icon_pack: fas
   name: Editing
-- description: 
+- description: Conversational 
   icon: comments
   icon_pack: far
-  name: Conversational Spanish
+  name: Spanish
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
