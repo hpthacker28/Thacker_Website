@@ -43,7 +43,7 @@ experience:
     date_end: '2021-12-12'
     description: Previously worked as Opinions Editor, Contributing Opinions Editor and Columnist.
     
-  # - title: Research/Copy Editing Intern
+   - title: Research/Copy Editing Intern
   #   company: The National Journal
   #   company_url: 'https://www.nationaljournal.com/dashboard'
   #   location: District of Columbia
