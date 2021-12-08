@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: The Washington Post
+    tag: The Washington Post
+  - name: The GW Hatchet 
+    tag: The GW Hatchet 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
