@@ -25,7 +25,6 @@ experience:
   - title: Copy Aide
     company: The Washington Post
     company_url: 'https://www.washingtonpost.com/people/hannah-thacker/'
-    company_logo: 
     location: District of Columbia
     date_start: '2021-03-03'
     date_end: ''
@@ -39,44 +38,35 @@ experience:
   - title: Managing Director
     company: The GW Hatchet 
     company_url: 'https://www.gwhatchet.com/author/hannah-thacker/'
-    company_logo: 
     location: District of Columbia
     date_start: '2018-09-09'
     date_end: '2021-12-12'
     description: Previously worked as Opinions Editor, Contributing Opinions Editor and Columnist.
     
-    
-  - title: Research/Copy Editing Intern
-    company: The National Journal
-    company_url: 'https://www.nationaljournal.com/dashboard'
-    company_logo: 
-    location: District of Columbia
-    date_start: '2020-12-12'
-    date_end: '2021-03-03'
-    description: Copy edit and fact check all profiles that would end up being posted on the
-official Vignette website and playbook.
+  # - title: Research/Copy Editing Intern
+  #   company: The National Journal
+  #   company_url: 'https://www.nationaljournal.com/dashboard'
+  #   location: District of Columbia
+  #   date_start: '2020-12-12'
+  #   date_end: '2021-03-03'
+  #   description: Copy edit and fact check all profiles that would end up being posted on the official Vignette website and playbook.
 
-    
   - title: Transcriber
     company: Freakonomics Radio
     company_url: 'https://freakonomics.com/archive/'
-    company_logo: 
     location: District of Columbia
     date_start: '2020-08-08'
     date_end: '2020-12-12'
-    description: Transcribe and edit hours of audio recordings.
+    # description: Transcribe and edit hours of audio recordings.
 
+  - title: Crisis Management Research Intern
+    company: Smith and Company Crisis Management
+    company_url: 'https://www.smithandcompany.com/'
+    location: District of Columbia
+    date_start: '2020-06-06'
+    date_end: '2020-12-12'
+    # description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
-  
 design:
   columns: '2'
 ---
