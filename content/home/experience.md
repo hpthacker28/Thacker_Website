@@ -65,7 +65,7 @@ experience:
     location: District of Columbia
     date_start: '2020-06-06'
     date_end: '2020-12-12'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    # description: Researched and monitored crises, presented briefs and backgrounds of situations to high profile clients. 
 
 design:
   columns: '2'
