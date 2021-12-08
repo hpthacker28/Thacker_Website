@@ -57,7 +57,7 @@ experience:
     location: District of Columbia
     date_start: '2020-08-08'
     date_end: '2020-12-12'
-    # description: Transcribe and edit hours of audio recordings.
+    description: Transcribe and edit hours of audio recordings.
 
   - title: Crisis Management Research Intern
     company: Smith and Company Crisis Management
@@ -65,7 +65,7 @@ experience:
     location: District of Columbia
     date_start: '2020-06-06'
     date_end: '2020-12-12'
-    # description: Researched and monitored crises, presented briefs and backgrounds of situations to high profile clients. 
+    description: Researched and monitored crises, presented briefs and backgrounds of situations to high profile clients. 
 
 design:
   columns: '2'
