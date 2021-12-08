@@ -6,15 +6,15 @@ title: Hannah Thacker
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Writer & Editor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The Washington Post
+  url: https://www.washingtonpost.com/people/hannah-thacker/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hannah Thacker is a writer and editor working within the journalism industry.
 
 # Interests to show in About widget
 interests:
