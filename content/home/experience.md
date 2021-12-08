@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Copy Aide
     company: The Washington Post
-    company_url: ''
+    company_url: 'https://www.washingtonpost.com/people/hannah-thacker/'
     company_logo: 
     location: District of Columbia
     date_start: '2021-03-03'
@@ -36,6 +36,24 @@ experience:
         * Newsroom Operations
         * FOIA writing and filing 
         
+  - title: Managing Director
+    company: The GW Hatchet 
+    company_url: 'https://www.gwhatchet.com/author/hannah-thacker/'
+    company_logo: 
+    location: District of Columbia
+    date_start: '2018-09-09'
+    date_end: '2021-12-12'
+    description: Previously worked as Opinions Editor, Contributing Opinions Editor and Columnist.
+    
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
