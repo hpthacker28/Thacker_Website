@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: fa-i-cursor
+  icon: i-cursor
   icon_pack: fas
   name: Writing
 - description: 100%
