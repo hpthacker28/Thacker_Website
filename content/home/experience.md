@@ -46,6 +46,25 @@ experience:
     description: Previously worked as Opinions Editor, Contributing Opinions Editor and Columnist.
     
     
+  - title: Research/Copy Editing Intern
+    company: The National Journal
+    company_url: 'https://www.nationaljournal.com/dashboard'
+    company_logo: 
+    location: District of Columbia
+    date_start: '2020-12-12'
+    date_end: '2021-03-03'
+    description: Copy edit and fact check all profiles that would end up being posted on the
+official Vignette website and playbook.
+    
+  - title: Transcriber
+    company: Freakonomics Radio
+    company_url: 'https://freakonomics.com/archive/'
+    company_logo: 
+    location: District of Columbia
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
@@ -55,15 +74,7 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
     
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  
 design:
   columns: '2'
 ---
