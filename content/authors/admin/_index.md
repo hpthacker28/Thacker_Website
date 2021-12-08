@@ -6,7 +6,7 @@ title: Hannah Thacker
 superuser: true
 
 # Role/position/tagline
-role: Writer & Editor
+role: Copy Aide
 
 # Organizations/Affiliations to show in About widget
 organizations:
