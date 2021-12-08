@@ -44,20 +44,13 @@ experience:
     description: Previously worked as Opinions Editor, Contributing Opinions Editor and Columnist.
     
    - title: Research/Copy Editing Intern
-  #   company: The National Journal
-  #   company_url: 'https://www.nationaljournal.com/dashboard'
-  #   location: District of Columbia
-  #   date_start: '2020-12-12'
-  #   date_end: '2021-03-03'
-  #   description: Copy edit and fact check all profiles that would end up being posted on the official Vignette website and playbook.
+     company: The National Journal
+     company_url: 'https://www.nationaljournal.com/dashboard'
+     location: District of Columbia
+     date_start: '2020-12-12'
+     date_end: '2021-03-03'
+     description: Copy edit and fact check all profiles that would end up being posted on the official Vignette website and playbook.
 
-  - title: Transcriber
-    company: Freakonomics Radio
-    company_url: 'https://freakonomics.com/archive/'
-    location: District of Columbia
-    date_start: '2020-08-08'
-    date_end: '2020-12-12'
-    description: Transcribe and edit hours of audio recordings.
 
   - title: Crisis Management Research Intern
     company: Smith and Company Crisis Management
