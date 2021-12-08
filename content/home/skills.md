@@ -20,14 +20,14 @@ feature:
   icon: i-cursor
   icon_pack: fas
   name: Writing
-- description: 100%
-  icon: chart-line
+- description: 90%
+  icon: pencil-alt
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Editing
+- description: 50%
+  icon: comments
+  icon_pack: far
+  name: Conversational Spanish
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
