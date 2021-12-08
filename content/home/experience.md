@@ -62,9 +62,9 @@ official Vignette website and playbook.
     company_url: 'https://freakonomics.com/archive/'
     company_logo: 
     location: District of Columbia
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2020-08-08'
+    date_end: '2020-12-12'
+    description: Transcribe and edit hours of audio recordings.
 
 
   - title: Professor of Semiconductor Physics
