@@ -65,8 +65,8 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hannah Thacker is a writer and editor based in Washington, D.C. While working in journalism currently, she has a background in communications, research and public relations. She is currently a copy aide at The Washington Post, working within Newsroom Operations to aide the Metro, Investigative and News Product Departments. She previously worked at The National Journal, Freakonomics Radio, Smith and Company Crisis Management and The GW Hatchet. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Thacker has also been nominated for Best General Column Writing in 2019 and 2020 by the Society of Professional Journalists for her Opinion work at The GW Hatchet, as well as winning Best Editorial Writing for her contributions to the GW Hatchet Editorial Board in 2019 and 2020. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
