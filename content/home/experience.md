@@ -55,6 +55,7 @@ experience:
     date_end: '2021-03-03'
     description: Copy edit and fact check all profiles that would end up being posted on the
 official Vignette website and playbook.
+
     
   - title: Transcriber
     company: Freakonomics Radio
@@ -64,6 +65,7 @@ official Vignette website and playbook.
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
 
   - title: Professor of Semiconductor Physics
     company: University X
