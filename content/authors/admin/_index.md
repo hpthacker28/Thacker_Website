@@ -67,6 +67,6 @@ highlight_name: true
 
 Hannah Thacker is a writer and editor based in Washington, D.C. While working in journalism currently, she has a background in communications, research and public relations. She is currently a copy aide at The Washington Post, working within Newsroom Operations to aide the Metro, Investigative and News Product Departments. She previously worked at The National Journal, Freakonomics Radio, Smith and Company Crisis Management and The GW Hatchet. 
 
-Thacker has also been nominated for Best General Column Writing in 2019 and 2020 by the Society of Professional Journalists for her Opinion work at The GW Hatchet, as well as winning Best Editorial Writing for her contributions to the GW Hatchet Editorial Board in 2019 and 2020. 
+Thacker has also been a finalist for Best General Column Writing in 2019 and 2020 by the Society of Professional Journalists for her Opinion work at The GW Hatchet, as well as winning Best Editorial Writing for her contributions to the GW Hatchet Editorial Board in 2019 and 2020. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
