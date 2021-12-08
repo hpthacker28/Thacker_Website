@@ -20,7 +20,7 @@ feature:
   icon: i-cursor
   icon_pack: fas
   name: Writing
-- description: Copy Editing and Content Editing 
+- description: Copy and Content Editing 
   icon: pencil-alt
   icon_pack: fas
   name: Editing
@@ -28,6 +28,10 @@ feature:
   icon: comments
   icon_pack: far
   name: Spanish
+-description: Freedom of Information Act Writing and Filing 
+  icon: file-alt
+  icon_pack: far
+  name: FOIA
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
