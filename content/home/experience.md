@@ -25,7 +25,7 @@ experience:
   - title: Copy Aide
     company: The Washington Post
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: District of Columbia
     date_start: '2021-03-03'
     date_end: ''
