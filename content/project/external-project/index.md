@@ -8,7 +8,7 @@ date: "2021-12-12T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.gwhatchet.com/author/hannah-thacker/
 
-image:
-  caption: The GW Hatchet logo
-  focal_point: Smart
+#image:
+  #caption: The GW Hatchet logo
+  #focal_point: Smart
 ---
