@@ -31,7 +31,8 @@ content:
     tag: The Washington Post
   - name: The GW Hatchet 
     tag: The GW Hatchet 
-
+  - name: Creative Writing
+    tag: Creative Writing
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
