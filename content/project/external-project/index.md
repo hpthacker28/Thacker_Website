@@ -9,6 +9,6 @@ date: "2021-12-12T00:00:00Z"
 external_link: https://www.gwhatchet.com/author/hannah-thacker/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: The GW Hatchet logo
   focal_point: Smart
 ---

@@ -9,6 +9,6 @@ date: "2021-12-12T00:00:00Z"
 external_link: https://www.washingtonpost.com/people/hannah-thacker/
 
 image:
-  caption: 
-  focal_point: 
+  caption: The Washington Post logo
+  focal_point: smart
 ---
