@@ -20,28 +20,28 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: hannahpaige2000@gmail.com
+phone: (818)321-0894
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  #street: 450 Serra Mall
+  city: District of Columbia
+  region: Washington
+  postcode: '20005
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-appointment_url: 'https://calendly.com'
+#coordinates:
+  #latitude: '37.4275'
+  #longitude: '-122.1697'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://twitter.com/HannahPThacker'
+  #- icon: skype
+    #icon_pack: fab
+    #name: Skype Me
+    #link: 'skype:echo123?call'
 
 # Site header
 
