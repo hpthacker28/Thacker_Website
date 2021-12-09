@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.spj.org/news.asp?utm_sq=gdsllk3hqw&ref=1716&utm_source=twitter&utm_medium=social&utm_campaign=spj-tweets&utm_content=pressreleases
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2020-04-13"
+  description: Finalist for Best General Column Writing (Large) 10,000+ Students
+  organization: The Society for Professional Journalists
+  organization_url: https://www.spj.org/
+  title: Best General Column Writing Writing 
   url: ""
-- certificate_url: 
+- certificate_url: https://www.spj.org/news.asp?utm_sq=gdsllk3hqw&ref=1716&utm_source=twitter&utm_medium=social&utm_campaign=spj-tweets&utm_content=pressreleases
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.dataquest.io/
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataQuest
-  organization_url: https://www.dataquest.io/
-  title: 'Intro to Programming in R'
-  url: ""
+  date_start: "2020-04-13"
+  description: Best Editorial Writing for the GW Hatchet Editorial Board written by Hannah Thacker 
+  organization: The Society of Professional Journalists
+  organization_url: https://www.spj.org/
+  title: Best Editorial Writing 
+  url: https://www.spj.org/news.asp?utm_sq=gdsllk3hqw&ref=1716&utm_source=twitter&utm_medium=social&utm_campaign=spj-tweets&utm_content=pressreleases
+- certificate_url: https://spark.adobe.com/page/6egBaRRIJZCqg/
+  date_end: ""
+  date_start: "2020-04-27"
+  description: "Named winner of the GW School of Media and Public Affairs Philip L. Graham Fund Scholarship for Diversity"
+  organization: The GW School of Media and Public Affairs
+  organization_url: https://smpa.gwu.edu/
+  title: Philip L. Graham Fund Scholarship for Diversity
+  url: https://spark.adobe.com/page/6egBaRRIJZCqg/
 
 design:
   columns: '2' 
