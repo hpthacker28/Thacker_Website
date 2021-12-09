@@ -1,8 +1,8 @@
 ---
 title: The Glimmer of a Forgotten Future
 summary: Poetry
-#tags:
-#- Deep Learning
+tags:
+ - Creative Writing
 date: "2020-01-26T00:00:00Z"
 
 #- Optional external URL for project (replaces project detail page).
