@@ -2,7 +2,7 @@
 title: Page Design
 summary: All page design samples. `external_link`.
 tags:
-- Page Design
+- The Washington Post
 date: "2021-12-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
