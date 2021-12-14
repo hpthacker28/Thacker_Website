@@ -47,7 +47,14 @@ item:
   organization_url: https://smpa.gwu.edu/
   title: Philip L. Graham Fund Scholarship for Diversity
   url: https://spark.adobe.com/page/6egBaRRIJZCqg/
-
+- certificate_url: https://studentpress.org/acp/2021/09/08/2021-story-of-the-year-finalists-2/
+  date_end: ""
+  date_start: "2021-09-24"
+  description: "Finalist for Editorial Writing for the Editorial Board's calling for GW President Thomas LeBlanc to resign from office."
+  organization: The Associated Collegiate Press
+  organization_url: https://smpa.gwu.edu/
+  title: 2021 Story of the Year finalists
+  url: https://studentpress.org/acp/2021/09/08/2021-story-of-the-year-finalists-2/
 design:
   columns: '2' 
 ---
